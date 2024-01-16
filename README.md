@@ -15,4 +15,4 @@ site feito em **HTML5 & CSS3** para estudo de responsividade
   - Pagina da Google Play 
 ## Funcionamento
 ### Optimizado para ser **Responsivo**
-<img src="2024-01-16-14-51-46.gif"/>
+<img src= "2024-01-16-15-00-44.gif"/>
