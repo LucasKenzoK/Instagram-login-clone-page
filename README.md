@@ -14,5 +14,5 @@ site feito em **HTML5 & CSS3** para estudo de responsividade
   - Pagina da AppStore
   - Pagina da Google Play 
 ## Funcionamento
-### Opttimizado para ser **Responsivo**
-<img src="img/2023-12-12-19-22-20.gif" />
+### Optimizado para ser **Responsivo**
+<img src="2024-01-16-14-51-46.gif"/>
